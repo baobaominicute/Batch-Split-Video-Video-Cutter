@@ -10,8 +10,6 @@ Run file "Autorun.bat"
 
 # Batch Split Video - Video Cutter #
 
-Share by Sharevina.com..............
-Batch Video Cutter
 This software allows you to easily trim videos to your desired time range with just a few simple steps.
 With an intuitive interface, users can select the folder containing the original videos, the output folder,
 and specify the start and end times to process videos quickly and efficiently.
