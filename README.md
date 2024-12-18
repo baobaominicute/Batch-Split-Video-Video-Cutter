@@ -1,11 +1,16 @@
 1. Install Python
-2. Install Moviepy Library (cmd: pip install moviepy)
-====================================
-How to use:
-Run file "Autorun.bat"
-====================================
-Share by Sharevina.com........................................
+2. Install Moviepy Library
 
+   ```bash
+   pip install moviepy
+
+# How to use: #
+
+Run file "Autorun.bat"
+
+# Batch Split Video - Video Cutter #
+
+Share by Sharevina.com..............
 Batch Video Cutter
 This software allows you to easily trim videos to your desired time range with just a few simple steps.
 With an intuitive interface, users can select the folder containing the original videos, the output folder,
