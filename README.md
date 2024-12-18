@@ -16,6 +16,8 @@ Run file "Autorun.bat"
 Set start time and end time once.
 Applies to all videos in the selected folder.
 
+****If "end time" is set larger than the original video "end time" => it will automatically cut to the end of the video.**
+
 This software allows you to easily trim videos to your desired time range with just a few simple steps.
 With an intuitive interface, users can select the folder containing the original videos, the output folder,
 and specify the start and end times to process videos quickly and efficiently.
