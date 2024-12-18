@@ -1,3 +1,4 @@
+# Setup #
 1. Install Python
 2. Install Moviepy Library
 
@@ -9,6 +10,11 @@
 Run file "Autorun.bat"
 
 # Batch Split Video - Video Cutter #
+
+![image](https://github.com/user-attachments/assets/5bd2099f-9aef-410f-a816-2f06c8e58df2)
+
+Set start time and end time once.
+Applies to all videos in the selected folder.
 
 This software allows you to easily trim videos to your desired time range with just a few simple steps.
 With an intuitive interface, users can select the folder containing the original videos, the output folder,
